@@ -3,4 +3,4 @@
 
 8/21 change by local repository
 
-no-fast-branch で変更!!
+main-branch で変更!!-->コンフリクト発生
