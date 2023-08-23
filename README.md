@@ -3,4 +3,4 @@
 
 8/21 change by local repository
 
-no-fast-branch で変更!!
+conflict-branch で変更!!
