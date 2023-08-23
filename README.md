@@ -3,4 +3,4 @@
 
 8/21 change by local repository
 
-new-feature branch で変更
+no-fast-branch で変更!!
