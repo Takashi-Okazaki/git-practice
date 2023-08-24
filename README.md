@@ -1,5 +1,5 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 
-8/21 change by local repository
-main-branch で変更!!-->コンフリクト発生
+Conflict-remote上でreadmeを更新しました->conflict発生します
+自分のローカルリポジトリで更新
