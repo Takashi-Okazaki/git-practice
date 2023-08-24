@@ -3,4 +3,4 @@
 8/21 change by local repository
 conflict-branch で変更!!
 
-GitHub上でreadmeを更新しました
+Conflict-remote上でreadmeを更新しました->conflict発生します
