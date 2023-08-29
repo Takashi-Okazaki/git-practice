@@ -3,3 +3,4 @@
 ローカルリポジトリで変更
 Rebase -practiceブランチで更新(rebase conflict用)
 rebase　PULL用の変更
+stash practice
