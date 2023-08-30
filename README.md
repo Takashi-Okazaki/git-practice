@@ -4,3 +4,4 @@
 Rebase -practiceブランチで更新(rebase conflict用)
 rebase　PULL用の変更
 stash practice->track done
+2nd changed
